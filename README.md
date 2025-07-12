@@ -12,9 +12,9 @@
 - MySQL
 
 ## 🛠️ Projects
-- 🔤 [AI Language Translator App](https://github.com/hasnainshehnsha/AI-Language-Translator-App)
-- 🍽️ [Food Ordering System (Java)](https://github.com/hasnainshehnsha/Food-Ordering-System-Java)
-- 🏫 [School Management System](https://github.com/hasnainshehnsha/School-Management-System)
+- 🔤 [translnc (Ai-translator-chatting-calling-app)](https://github.com/hasnain-shehnsha/TransLnc)
+- 🍽️ [HHfoods-Desktop-food-ordering-system (Java)](https://github.com/hasnain-shehnsha/HHfoods-Desktop-food-ordering-system)
+- 🏫 [Paradise-Hostel(hostel-management system)](https://github.com/hasnain-shehnsha/Paradise-Hostel)
 
 ---
 
