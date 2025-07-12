@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm M. Husnain Shehnsha
 
-<!--
-**hasnain-shehnsha/hasnain-shehnsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at COMSATS Wah  
+🤖 Machine Learning & AI Enthusiast  
+🌐 Web & Mobile App Developer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python (Pandas, Scikit-learn, TensorFlow)
+- Java, C++
+- Django, Flask, PHP
+- HTML/CSS/JS
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🔤 [AI Language Translator App](https://github.com/hasnainshehnsha/AI-Language-Translator-App)
+- 🍽️ [Food Ordering System (Java)](https://github.com/hasnainshehnsha/Food-Ordering-System-Java)
+- 🏫 [School Management System](https://github.com/hasnainshehnsha/School-Management-System)
+
+---
+
+📫 Reach me at: hasnainshehnsha.ai@gmail.com  
+🌍 Wah Cantt, Pakistan  
