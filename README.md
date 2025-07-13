@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **@DEVNESS**
 
-- 💬 Ask me about **ML, Mobile dev(Flutter, Java), Web dev(php django)**
+- 💬 Ask me about **ML, Mobile dev(Flutter, Java), Web dev(php laravel, pyhton django)**
 
 - 📫 How to reach me **hasnainshehnsha.ai@gmail.com**
 
