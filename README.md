@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Translnc](https://github.com/hasnain-shehnsha/TransLnc)
 
-- 🌱 I’m currently learning **@DEVNESS**
+- 🌱 I’m currently learning **Deep learning**
 
 - 💬 Ask me about **ML, Mobile dev(Flutter, Java), Web dev(php laravel, pyhton django)**
 
